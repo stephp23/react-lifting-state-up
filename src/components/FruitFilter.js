@@ -8,4 +8,4 @@ const FruitFilter = props => {
   //FruitFilter renders a single input. It's value and onChange callbakcs
   // will be both be set by the container component
 }
-export default FruitFilter
+export default FruitFilter;

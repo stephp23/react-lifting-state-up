@@ -7,4 +7,4 @@ const FruitList = props => {
     </ul>
   )
 }
-export default FruitList
+export default FruitList;

@@ -33,4 +33,4 @@ const FruitContainer = (props) => {
   </div>
 )
 }
-export default FruitContainer
+export default FruitContainer;
